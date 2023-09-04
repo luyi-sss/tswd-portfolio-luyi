@@ -2,6 +2,18 @@
 This is my portfolio for Telling Stories with Data. I will gradually build out this repository this semester and upgrade all my work here. 
 Hope this page adds a point for me when finding a job:)
 
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
+This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Final project
+Here it might be helpful to include a high-level description of your final project. 
+[Part I](final-project-part-one)
+[Part II](final-project-part-two)
+Part III(final-project-part-three)
+
 # About me
 Hi! 
 My name is Luyi.
@@ -20,19 +32,6 @@ All the things relating to data visualizations - obviously.
 3. To cultivate an aesthetic of data visualization
 
 
-# Portfolio 
-
-## Assignment: [Visualizing government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
 
 
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
