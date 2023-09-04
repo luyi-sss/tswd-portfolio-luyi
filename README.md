@@ -14,6 +14,7 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
+
 # About me
 Hi! 
 My name is Luyi.
@@ -23,6 +24,7 @@ She/ Her pronouns.
 Right now, I'm taking as many data courses as I can because I see data analysis, business analysis, and consulting as my career directory. Though I was trying to be a theater project manager before I came to CMU.:)
 
 After working as a business intelligence intern, I found that telling a story based on data you have is equal to acquiring and analyzing data. It is the story, insights, conclusions, or trends that interest clients and stakeholders the most. I foresee myself better utilizing data to provide more effective and informative strategies and recommendations in my future work.
+
 
 # What I hope to learn
 All the things relating to data visualizations - obviously. 
@@ -34,7 +36,8 @@ All the things relating to data visualizations - obviously.
 
 
 
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+
+## Other stuff I can do (just for my reference.)
 
 ### Changing text
 
