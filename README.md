@@ -1,35 +1,31 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my portfolio for Telling Stories with Data. I will gradually build out this repository this semester and upgrade all my work here. 
+Hope this page adds a point for me when finding a job:)
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! 
+My name is Luyi.
+I'm a second-year MAM student at CMU.
+She/ Her pronouns.
+
+Right now, I'm taking as many data courses as I can because I see data analysis, business analysis, and consulting as my career directory. Though I was trying to be a theater project manager before I came to CMU.:)
+
+After working as a business intelligence intern, I found that telling a story based on data you have is equal to acquiring and analyzing data. It is the story, insights, conclusions, or trends that interest clients and stakeholders the most. I foresee myself better utilizing data to provide more effective and informative strategies and recommendations in my future work.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things relating to data visualizations - obviously. 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. More effective ways to tell stories and convey insights
+2. What I did ring & what I did wrong in my previous data visualization working experience
+3. To cultivate an aesthetic of data visualization
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -41,7 +37,7 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
+
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
