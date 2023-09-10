@@ -22,10 +22,10 @@ Since the line chart shows the change in the ratio, different dots on the scatte
     Simple for users to compare ratios across different countries.
 
 What I think when designing the scatter plot:  
-    1. The shape is a preattentive attribute for users and I want the range of ratios of different countries to be my emphasis, so I choose to draw a scatter plot.
-    2. To better emphasize the position of each point in the scatterplot, I chose gray as the background color and represented each point in purple. Sequential colors are good for illustrating counts. By changing the intensity of the color, it is clear to see the duration for which each country maintains a particular debt ratio. I used gray as the background color for the chart, so I also chose gray for elements like the x-axis, the y-axis, and the chart title. After using purple as the main color for the chart, I also used purple for the footer. This increases chart readability and helps limit colors as best as I can.
-    3. When deciding the dot style, I chose a square shape as it is easy to make comparisons, and the square dots stacked together resemble bars in bar charts, which also provides a clear view of both the maximum and minimum of the debt ratio.
-    4. Plus, I took off the grid lines to increase the clarity and remove redundancy.   
+1. The shape is a preattentive attribute for users and I want the range of ratios of different countries to be my emphasis, so I choose to draw a scatter plot.
+2. To better emphasize the position of each point in the scatterplot, I chose gray as the background color and represented each point in purple. Sequential colors are good for illustrating counts. By changing the intensity of the color, it is clear to see the duration for which each country maintains a particular debt ratio. I used gray as the background color for the chart, so I also chose gray for elements like the x-axis, the y-axis, and the chart title. After using purple as the main color for the chart, I also used purple for the footer. This increases chart readability and helps limit colors as best as I can.
+3. When deciding the dot style, I chose a square shape as it is easy to make comparisons, and the square dots stacked together resemble bars in bar charts, which also provides a clear view of both the maximum and minimum of the debt ratio.
+4. Plus, I took off the grid lines to increase the clarity and remove redundancy.   
 
 ## The bar chart of the Debt-to-GDP ratio:
 <iframe src="https://data.oecd.org/chart/7b90" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b90" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
