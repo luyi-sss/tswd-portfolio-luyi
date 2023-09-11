@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # visualizing-government-debt
-This dataset shows the debt-to-GDP ratio of countries between 1995 and 2019. 3 key attributes need to be identified clearly on charts: Country, Ratio, and the change or the range of ratios within the period. 
+This dataset shows the debt-to-GDP ratio of countries between 1995 and 2019. 3 key attributes need to be identified clearly on charts: Country, Ratio, and the change or the range of ratios within the period. 3 different data visualization ways are used to demonstrate the same dataset of the general debt from OECD.(https://data.oecd.org/)
 
 The bar chart demonstrates the ratio of different countries:  
     The use of gray and other colors perfectly differentiates the ratios of countries;  
@@ -12,8 +12,8 @@ The bar chart demonstrates the ratio of different countries:
 The grid line chart clearly shows the change in the ratio in the time:  
     We can identify whether there is an upward or downward trend;  
     Not easy for users to read values and make comparisons;  
-    I added some data labels trying to give users a sense of how the ratio changed;
-    Easy to lose focus.
+    I added some data labels trying to give users a data-based sense of how the ratio changed;
+    However, it is easy to lose focus as the grid line charts are overdone(there are too many charts and too many countries).
   
 Since the line chart shows the change in the ratio, different dots on the scatter plot picture the range of the ratio of each country mentioned in the dataset:    
     Cannot see the trend of the ratio of each country;  
