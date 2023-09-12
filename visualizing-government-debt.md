@@ -20,6 +20,7 @@ What I think when designing the scatter plot:
 2. To better emphasize the positions of each point in the scatterplot, I chose gray as the background color to make the dots more prominent. I also chose gray for elements like the x-axis, the y-axis, and the chart title. I represented each point in purple as I think purple is clear enough to show the data. Sequential colors are good for illustrating counts. By changing the intensity of the color, it is clear to see the duration for which each country maintains a particular debt ratio. For example, the debt ratio of Italy mainly clusters within the range of 100-160. After using purple as the main color for the chart, I also used purple for the footer. This increases chart readability and helps limit colors as best as I can.
 3. When deciding the dot style, I chose a square shape as it is easy to make comparisons across different countries. The square dots stacked together resemble bars in bar charts, which also provide a clear view of the maximum, minimum, and range of the debt ratio.
 4. Plus, I took off the grid lines to increase the clarity and remove redundancy.
+5. I played with the bump notes a little bit trying to highlight the maximum and minimum but it seems that Flourish doesn't have this function. 
 
 Cons that I found when designing the scatter plot:
 1. Cannot see the trend of the ratio of each country;
