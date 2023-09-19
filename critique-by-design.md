@@ -9,8 +9,8 @@ The reason why I chose it:
 You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign. 
 
 
-![sketch](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch.png)
-![sketch-with-comments](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch%20with%20comments%20on.jpg)
+![](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch.png)
+![](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch%20with%20comments%20on.jpg)
 
 # what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
