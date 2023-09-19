@@ -50,17 +50,24 @@ Here are the feedback I got:
 6. Delete the arrow of the line chart.
 7. The word choice of 'US orange juice export value' is confusing for me.
 
-- feedback on class
+- feedback from class
 1. The different shades of grey make it hard to tell productions of regions other than the US.
 2. Does the sequence of grey matter? What about using different colors for other producers?
+3. Maybe only 2 segments are needed? One is the US, the other is "other regions except the US"?
 
 ![sketch with comments](sketch%20with%20comments%20on.jpg)
 
 ## What did my re-designed data visualization show, and what did I attempt to do differently? 
-1. 
+What did I show:
+I would like to present the changes in US orange production over the past five years and the fluctuations in US orange juice prices through data visualization. This will serve as a supplementary section to the original content, providing a visual representation of how the changes in US orange production have affected US orange juice prices.
+By utilizing a bar chart, we can compare the changes in production over the past five years, while an associated line chart will reveal the trend in price fluctuations during this same period. Additionally, within the bar chart, different segments represent the production levels of the major orange juice-producing regions for each year. The color orange will signify the United States, while other countries will be represented by varying shades of gray, with lighter shades indicating lower production volumes.
 
-
-
+what did I do:
+1. Download fresh orange juice production data from [USDA](https://www.fas.usda.gov/data/citrus-world-markets-and-trade). Because the dataset contains fruit products besides orange juice, I extracted orange juice data from the original dataset and used the Pivot table to do some basic calculations.
+2. Download fresh orange juice price data from [Markets Insider](https://markets.businessinsider.com/commodities/orange-juice-price) because I didn't find it on USDA (I guess it is the reason why the original data visualization used the frozen orange juice price data. On USDA, they only have the frozen orange juice prices.)
+3. Combine two tables into one and upload it on Flourish.
+4. I followed the suggestions I collected to revise my draft. I changed the title, the format of the line chart, the y-axis, colors, and some annotations.
+5. However, I keep the legend on the bottom because I found it distracting when I put it above. I continue to use grey(if any reader is interested in comparing productions of other countries, different shades of grey can help them identify it) and orange to differentiate different regions.
 
 
 # Final data visualization:
