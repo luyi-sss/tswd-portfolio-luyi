@@ -11,7 +11,7 @@ You should talk about how you moved next to the sketches, and any insights you g
 
 [sketch](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch.png)
 
-{sketch with comments on](http://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch with comments on.jpg) 
+[sketch with comments on]([http://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch with comments on.jpg](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch%20with%20comments%20on.jpg)) 
 
 # what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
