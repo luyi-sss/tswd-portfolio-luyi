@@ -9,9 +9,9 @@ The reason why I chose it:
 You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign. 
 
 
-sketch.png
+[sketch](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch.png)
 
-sketch with comments on.jpg 
+{sketch with comments on](http://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/sketch with comments on.jpg) 
 
 # what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
