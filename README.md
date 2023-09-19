@@ -82,3 +82,6 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
