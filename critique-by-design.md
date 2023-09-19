@@ -1,7 +1,7 @@
 # Critique by design
 
 # The original data visualization & some background information
-https://www.ft.com/content/9619df30-cdf7-49ee-abf3-6583f2b0bcf9
+[Soft commodities: orange juice gives a taste of coming volatility](https://www.ft.com/content/9619df30-cdf7-49ee-abf3-6583f2b0bcf9)
 The reason why I chose it:
 
 
