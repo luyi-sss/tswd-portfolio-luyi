@@ -11,7 +11,7 @@ The reason why I chose it:
 You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign. 
 
 
-
+sketch.png
 
 sketch with comments on.jpg 
 
