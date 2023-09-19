@@ -3,10 +3,10 @@ This is my portfolio for Telling Stories with Data. I will gradually build out t
 Hope this page adds a point for me when finding a job:)
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
-This page is linking to a new Markdown document called `visualizing-government-debt.md`, where you can see my  data visualizations there.
+This page is linking to a new Markdown document called `visualizing-government-debt.md`, where you can see my data visualizations there.
 
 ## Assignment 3&4: [Critique-by-Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
