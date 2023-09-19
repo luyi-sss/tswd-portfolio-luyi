@@ -13,6 +13,8 @@ You should talk about how you moved next to the sketches, and any insights you g
 
 
 
+sketch with comments on.jpg 
+
 # what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
 
