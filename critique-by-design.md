@@ -3,8 +3,9 @@
 # Critique by design
 
 ## The original data visualization & some background information
-[Soft commodities: orange juice gives a taste of coming volatility](https://www.ft.com/content/9619df30-cdf7-49ee-abf3-6583f2b0bcf9)
-The reason why I chose it:
+The original data visualization is from an article in Financial Times, and it is called: [Soft commodities: orange juice gives a taste of coming volatility](https://www.ft.com/content/9619df30-cdf7-49ee-abf3-6583f2b0bcf9)
+The reason why I chose it:  
+1. I think this chart is quite problematic. Despite what I mentioned, I generally don’t think this is a good visualization and there are a lot of things I would do differently. I think my answer will overlap with the next question, so I will give further details in the next question. 
 
 
 ## What I gained from the critique method and how to re-design it: 
