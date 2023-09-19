@@ -5,7 +5,7 @@ Hope this page adds a point for me when finding a job:)
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 This page is linking to a new Markdown document called `visualizing-government-debt.md`, where you can see my  data visualizations there.
 
-## Assignment 3&4: [Critique by Design]([critique-by-design](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/critique-by-design.md))
+## Assignment 3&4: [Critique-by-Design](https://github.com/luyi-sss/tswd-portfolio-luyi/blob/main/critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
