@@ -9,7 +9,6 @@ This page is linking to a new Markdown document called `visualizing-government-d
 This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project: [Final project part I](final-project-part-one)
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
