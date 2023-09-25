@@ -44,6 +44,7 @@ In general, the major elements of my story would be:
 
 # The data
 > An explanation of how I plan on using my data:
+
 Story reference: articles that I list will be used as reference to outline my story.
   
 Data reference:
