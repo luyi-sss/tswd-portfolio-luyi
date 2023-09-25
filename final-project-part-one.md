@@ -1,6 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
+
+In general, the project structure of my story would be:
+1. the background information about coffee and the issue of decreasing production due to climate change (data viz: a stacked area chart and a line chart)
+2. how the climate change affect the planting environment and coffee growers (data viz: stacked bar chart, line chart, and map)
+3. strategies to save the future of the coffee industry (data viz: table)
+* the types and numbers of charts are not the final plan.
+
+
 Following is the summary of my story:  
 
 Are We Running Out of Coffee?  
@@ -24,12 +32,6 @@ Organizations associated with the coffee industry are mobilizing efforts to secu
 The World Coffee Research (WCR) advocates for increased financial investment in agricultural research to support research in developing more resilient coffee plants, improving disease and pest control, implementing innovative water and natural resource protection methods, enhancing soil health, and promoting best practices in farm management. Brazil, Vietnam, and Colombia have invested in farm technology and climate-resistant plants.
 
 In addition to agricultural research and development, improved access to marketing and the utilization of technology, like DNA fingerprinting to identify coffee varieties for roasters, can contribute to boosting productivity and prices. Further support for these strategies, along with better access to financial resources and credit mechanisms, will help bridge the gap between coffee production and consumption. To rescue the coffee industry, a renewed emphasis on culture, history, and the stories behind coffee farming, similar to the approaches seen in the cheese and wine industries, is essential. The coffee sector should create compelling narratives that highlight the intangible aspects of coffee origins, human experiences, and ecological stories.  
-
-In general, the major elements of my story would be:
-1. the background information about coffee and the issue of decreasing production due to climate change (data viz: a stacked area chart and a line chart)
-2. how the climate change affect the planting environment and coffee growers (data viz: stacked bar chart, line chart, and map)
-3. strategies to save the future of the coffee industry (data viz: table)
-* the types and numbers of charts are not the final plan.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 
