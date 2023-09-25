@@ -39,20 +39,17 @@ Text here...
 ![Comparison](comparison.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-[1] https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers.
-> 
-[2] https://ig.ft.com/coffee/
-[3] https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests
-Text here...
-
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Name               | URL                                                                                                                                                | Description     |   |   |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---|---|
+| Wikipedia-coffee   | https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers.        | Story Reference |   |   |
+| Financial Times    | https://ig.ft.com/coffee/                                                                                                                          | Story Reference |   |   |
+| The Guardian       | https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests | Story Reference |   |   |
+| Coffee Production  | https://www.ico.org/prices/po-production.pdf                                                                                                       | Data Reference  |   |   |
+| Coffee Consumption | https://www.ico.org/prices/new-consumption-table.pdf                                                                                               | Data Reference  |   |   |
+| Coffee Prices      | https://www.ico.org/new_historical.asp                                                                                                             | Data Reference  |   |   |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
