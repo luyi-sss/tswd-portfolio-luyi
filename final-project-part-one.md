@@ -9,13 +9,13 @@ Coffee is one of the most popular drinks around the world. Every year, we consum
 However, coffee production has been declining year by year due to climate change. The rising temperatures from global heating decreased suitable lands for cultivating coffee. Also, the climate conditions reduce coffee yield becoming more frequent. According to the research Dr Doug Richardson, lands are "shifting from cool and wet to hot and dry conditions. We suggest that coffee production can expect ongoing systemic shocks"[3] This means in the near future, drinking coffee would be a luxury, moreover, the coffee will not be tasty.
 
 
-I. The limited plant regions and vulnerability of coffee beans
+I. The limited plant regions and vulnerability of coffee beans  
 The coffee belt runs horizontally along it, spanning 25 degrees north and 30 degrees south of the equator, which means the tropical areas are the traditional regions planting coffee beans. Brazil, Vietnam, Colombia, Ethiopia, and Indonesia are the major coffee producers but we can their best areas for plating coffee trees are narrowing due to the frequent extreme weather as coffee trees love places that are not too cold but not too hot.
 
 Arabica and Robusta are the 2 major coffee beans we consume every day with the arabica beans favored by most consumers. Arabica bean is particularly vulnerable to warming weather and fungus, which can ruin the harvest of coffee beans. But it provides the familiar coffee scent that we taste every day. Meanwhile, the Robusta is tougher compared to Arabica but it does not give a pleasing taste. If the weather changes significantly, Robusta beans are also vulnerable. 
 The harvest of coffee beans heavily depends on the weather. 
 
-II. Growers are leaving the industry
+II. Growers are leaving the industry  
 Due to their precarious position in the value chain, most growers are unable to directly address the climate crisis. Poverty among growers is widespread. Of the estimated 25 million farmers across 50 "coffee belt" countries, about 80 percent are smallholder producers struggling with low incomes, working on plots of land of less than five hectares. Many of these farmers, already grappling with low incomes, now find themselves on the front lines of the climate crisis, with changing weather patterns leading to droughts, floods, and increased pest and disease pressure. Many feel that they are bearing the brunt of the climate burden without receiving adequate compensation and are opting to leave the industry.
 
 According to data from the World Intellectual Property Organization, a UN agency, producing countries retain less than 10 percent of the estimated $200 billion annual coffee industry's retail value, while large companies headquartered in higher-income importing countries capture most of the profits.
