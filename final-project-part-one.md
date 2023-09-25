@@ -54,4 +54,4 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-In part one, I am using an iPad for sketches. When I have a clearer thought about my story, I would use Tableau to create data visualizations and complete my final version on Shorthand.
+In part one, I am using an iPad for sketches. I think maybe more data needs to be collected to form an informative story. When I have a clearer thought about my story, I would use Tableau to create data visualizations and complete my final version on Shorthand.
