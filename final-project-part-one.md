@@ -28,7 +28,7 @@ In general, the major elements of my story would be:
 1. the background information about coffee and the issue of decreasing production due to climate change (data viz: a stacked area chart and a line chart)
 2. how the climate change affect the planting environment and coffee growers (data viz: stacked bar chart, line chart, and map)
 3. strategies to save the future of the coffee industry (data viz: table)
-* the types and numbers of charts are estimated, not the final plan.
+* the types and numbers of charts are not the final plan.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 
