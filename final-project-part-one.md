@@ -42,6 +42,7 @@ In addition to agricultural research and development, improved access to marketi
 ![Production of major coffee beans](production%20of%20arabica%20and%20robusta.jpg)
 ![Coffee Belt](the%20coffe%20belt.jpg)
 ![Comparison](comparison.jpg)
+![Coffee Profits](coffee%20profits.png)
 
 
 # The data
