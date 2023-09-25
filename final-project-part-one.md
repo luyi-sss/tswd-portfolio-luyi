@@ -26,16 +26,17 @@ The World Coffee Research (WCR) advocates for increased financial investment in 
 In addition to agricultural research and development, improved access to marketing and the utilization of technology, like DNA fingerprinting to identify coffee varieties for roasters, can contribute to boosting productivity and prices. Further support for these strategies, along with better access to financial resources and credit mechanisms, will help bridge the gap between coffee production and consumption. To rescue the coffee industry, a renewed emphasis on culture, history, and the stories behind coffee farming, similar to the approaches seen in the cheese and wine industries, is essential. The coffee sector should create compelling narratives that highlight the intangible aspects of coffee origins, human experiences, and ecological stories.
 
 
-
-
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![Story Arc]([story arc.jpg](story%20arc.jpg))
+![production vs consumption](production%20vs%20consumption.jpg)
+![Production of major coffee beans](production%20of%20arabica%20and%20robusta.jpg)
+![Coffee Belt](the%20coffe%20belt.jpg)
+![Comparison](comparison.jpg)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
