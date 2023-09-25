@@ -3,7 +3,7 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Are We Running Out of Coffee?
+Are We Running Out of Coffee?  
 Coffee is one of the most popular drinks around the world. Every year, we consume more than 12 billion pounds of coffee and the United States alone has over 130 million coffee drinkers.[1] The demand for coffee has been steadily increasing over the past three years and is expected to continue rising in the future. 
 
 However, coffee production has been declining year by year due to climate change. The rising temperatures from global heating decreased suitable lands for cultivating coffee. Also, the climate conditions reduce coffee yield becoming more frequent. According to the research Dr Doug Richardson, lands are "shifting from cool and wet to hot and dry conditions. We suggest that coffee production can expect ongoing systemic shocks"[3] This means in the near future, drinking coffee would be a luxury, moreover, the coffee will not be tasty.
