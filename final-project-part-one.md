@@ -40,7 +40,9 @@ Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+- Story reference: links in this part will be used as reference to outline my story.
+- Data reference:
+  
 
 | Name               | URL                                                                                                                                                | Description     |   |   |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---|---|
@@ -54,4 +56,4 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-In part one, I am using an iPad for sketches. I think maybe more data needs to be collected to form an informative story. When I have a clearer thought about my story, I would use Tableau to create data visualizations and complete my final version on Shorthand.
+I am using an iPad for sketches in part one of my final project. I think maybe more data needs to be collected to form an informative story. When I have a clearer thought about my story, I would use Tableau to deliver data visualizations and complete my final story on Shorthand.
