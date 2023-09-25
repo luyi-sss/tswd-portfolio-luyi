@@ -44,13 +44,14 @@ In general, the major elements of my story would be:
 
 # The data
 > An explanation of how I plan on using my data:
-- Story reference: articles that I list will be used as reference to outline my story.
-- Data reference:
- the coffee domestic consumption table: creates the stacked area chart to illustrate the trend and proportions of global coffee consumption.
- the coffee domestic consumption table & production table: the coffee industry is facing a serious challenge due to climate change as consumption surpasses production.
- the production of 2 major coffee beans: the production growth rates of Arabica and Robusta are both slowing down. In the near future, we will witness a decrease in production. (Coffee will be expensive.)
- the production of 2 major coffee beans: make a comparison of the production of Arabica and Robusta beans to show Arabica gets affected more. (We will have less tasty coffee.)
- the price paid to growers & the retail price: make a comparison in order to show how less profits the growers can get.
+Story reference: articles that I list will be used as reference to outline my story.
+  
+Data reference:
+- the coffee domestic consumption table: creates the stacked area chart to illustrate the trend and proportions of global coffee consumption.
+- the coffee domestic consumption table & production table: the coffee industry is facing a serious challenge due to climate change as consumption surpasses production.
+- the production of 2 major coffee beans: the production growth rates of Arabica and Robusta are both slowing down. In the near future, we will witness a decrease in production. (Coffee will be expensive.)
+- the production of 2 major coffee beans: make a comparison of the production of Arabica and Robusta beans to show Arabica gets affected more. (We will have less tasty coffee.)
+- the price paid to growers & the retail price: make a comparison in order to show how less profits the growers can get.
   
 
 | Name                               | URL                                                                                                                                                | Description     |   |   |
