@@ -32,7 +32,7 @@ Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-![Story Arc]([story arc.jpg](story%20arc.jpg))
+![Story Arc](story%20arc.jpg)
 ![production vs consumption](production%20vs%20consumption.jpg)
 ![Production of major coffee beans](production%20of%20arabica%20and%20robusta.jpg)
 ![Coffee Belt](the%20coffe%20belt.jpg)
