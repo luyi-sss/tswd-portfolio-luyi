@@ -18,7 +18,7 @@ Coffee is one of the most popular drinks around the world. Every year, we consum
 
 However, coffee production has been declining year by year due to climate change. The rising temperatures from global heating decreased suitable lands for cultivating coffee. Also, the climate conditions reduce coffee yield becoming more frequent. According to the research by Dr Doug Richardson, lands are "shifting from cool and wet to hot and dry conditions. We’re pretty confident is a result of climate change. We suggest that coffee production can expect ongoing systemic shocks"(The Guardian, 2023)This means in the near future, drinking coffee would be a luxury.
 
-How does climate change affect coffee production?
+How does climate change affect coffee production?  
 I. The limited plant regions and vulnerability of coffee beans  
 The coffee belt runs horizontally along it, spanning 25 degrees north and 30 degrees south of the equator, which means the tropical areas are the traditional regions planting coffee beans. Brazil, Vietnam, Colombia, Ethiopia, and Indonesia are the major coffee producers but we can their best areas for plating coffee trees are narrowing due to the frequent extreme weather as coffee trees love places that are not too cold but not too hot.
 
