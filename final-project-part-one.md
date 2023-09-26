@@ -9,7 +9,7 @@ In general, the project structure of my story would be:
 * the types and numbers of charts are not the final plan.
 
 
-Following is the summary of my story:  
+> Following is the summary of my story:  
 
 Are We Running Out of Coffee?  
 
