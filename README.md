@@ -8,7 +8,7 @@ This page is linking to a new Markdown document called `visualizing-government-d
 ## Assignment 3&4: [Critique-by-Design](critique-by-design)
 This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project: [Final project part I](final-project-part-one)
+## Final project: [Final project part II](final-project-part-two)
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
