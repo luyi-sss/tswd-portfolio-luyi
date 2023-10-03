@@ -6,12 +6,25 @@
 I use Shorthand to develop my story. Here is the [link.]()
 
 
+
+
+
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-In this part, I create a user persona to help identify my target audience. 
+In this part, I create a [user persona](https://www.canva.com/design/DAFwLF6Jm1s/tzVQCEI3pl8W0Tb0svHnGw/edit?utm_content=DAFwLF6Jm1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to help identify my target audience. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 77.2727%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwLF6Jm1s&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwLF6Jm1s&#x2F;view?utm_content=DAFwLF6Jm1s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pink and Black Business Project Doodle Illustration User Information Brochure</a> by Luyi Sun
+
 
 ## Interview script
 
@@ -22,6 +35,7 @@ In this part, I create a user persona to help identify my target audience.
 | Emphasis and understanding | What are the emphasis of the story?                      |
 | Aesthetic and clarity      | List one part of visualization and one part you dislike. |
 | User engagement            | Who do you think is the intended audience for this?      |
+
 
 
 
@@ -37,6 +51,7 @@ Text here!
 |                         |                                |             |             |
 
 
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
@@ -50,6 +65,8 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
+
+
 > ...include any final thoughts you have here. 
 
 Text here!
@@ -58,7 +75,6 @@ Text here!
 
 
 # My moodboard
-Somehow I can let the embedded code of Canva render well on GitHub pages. So I pasted a link referring to my moodboard.
-[moodboard](https://www.canva.com/design/DAFwD0shq80/view)
+Somehow I can let the embedded code of Canva render well on GitHub pages. So I pasted a link referring to my [moodboard](https://www.canva.com/design/DAFwD0shq80/view)
 
 
