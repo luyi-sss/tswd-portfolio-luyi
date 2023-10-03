@@ -14,7 +14,7 @@ I use Shorthand to develop my story. Here is the [link.]()
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-In this part, I create a [user persona]([https://www.canva.com/design/DAFwLF6Jm1s/tzVQCEI3pl8W0Tb0svHnGw/edit?utm_content=DAFwLF6Jm1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFwLF6Jm1s/view)) to help identify my target audience. 
+My target audience will be employers in the coffee industry who need industrial news and trends, people who care about climate change and sustainable development, and coffee lovers. Audiences generally know about this topic and are highly interested in the change in the coffee industry. Even if audiences don't have specific knowledge about coffee, their educational backgrounds enable them to understand the information when they see the chart quickly. They want to gain high-value information efficiently from data visualization and catch up with the content.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 77.2727%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -73,9 +73,7 @@ Text here!
 
 
 
-# My moodboard
-Somehow I can let the embedded code of Canva render well on GitHub pages. So I pasted a link referring to my [moodboard](https://www.canva.com/design/DAFwD0shq80/view)
-
+# My mood board
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -83,4 +81,4 @@ Somehow I can let the embedded code of Canva render well on GitHub pages. So I p
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwD0shq80&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwD0shq80&#x2F;view?utm_content=DAFwD0shq80&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Green &amp; Brown Monstera Plant Fun Facts Infographic</a> by Luyi Sun
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwD0shq80&#x2F;view?utm_content=DAFwD0shq80&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Green &amp; Mood board </a> by Luyi Sun
