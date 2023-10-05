@@ -64,7 +64,9 @@ My target audience will be employers in the coffee industry who need industrial 
 |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |
 
 > last thoughts
-Currently, the narrative logic needs to be finalized, and more content to support the storytelling needs to be added. 
+
+Currently, the narrative logic needs to be finalized, as readers find it confusing. It is interesting and helpful to see how other people comprehend the same visualization in a different way because this visualization services its readers, rather than its author. Readers feedback are always important.
+More content to support the storytelling needs to be added. 
 
 
 
