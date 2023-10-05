@@ -27,7 +27,7 @@ My target audience will be employers in the coffee industry who need industrial 
 |----------------------------|----------------------------------------------------------|
 | Intuition and clarity      | What can you tell from the data visualization?           |
 | Intuition and clarity      | Is there anything you find confusing?                    |
-| Emphasis and understanding | What are the emphasis of the story?                      |
+| Emphasis and understanding | What is the emphasis of the story?                      |
 | Aesthetic and clarity      | List one part of visualization and one part you dislike. |
 | User engagement            | Who do you think is the intended audience for this?      |
 
@@ -63,6 +63,8 @@ My target audience will be employers in the coffee industry who need industrial 
 |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |
 |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |
 
+> last thoughts
+Currently, the narrative logic needs to be finalized, and more content to support the storytelling needs to be added. 
 
 
 
