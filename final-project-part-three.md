@@ -11,23 +11,27 @@ With climate change leading to a decrease in coffee beans production, coffee pro
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-I incorporated all feedback and interview instructions since the goal of the story is to provide valuable information to my readers. Their perspectives matter.
-1. the overall logic: I changed the overall story narrative to make my story clearer just like what I mentioned in part II.
+I incorporated all feedback and interview instructions since the goal of the story is to provide valuable information to my readers. Their perspectives matter. My story can be successful unless they can understand what I'm trying to say and recognize it.
+1. the overall logic: I changed the overall story narrative to make my story clearer just like what I mentioned in part II. My interviewee helps me to find the most sounding logic to the narrative. I really appreciate it.  
 2. user engagement: when I was doing interviews, some of my interviewers told me that my paragraphs were long. So, I split some sections to make paragraphs shorter and more succinct.
 3. aesthetic: I made multiple changes to my graphs and the layout of my story to make it more engaging or at least not confusing for readers.
 4. final checking: I checked my grammar and writing to make my story coherent.
 
+
 ## The audience
 > Talk about who you identified as the audience for your final data story. Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-The persona definitely helps me to set the narrative tone of my story. The interview helped me to gain valuable critique from my potential audience. My target audience will be employers in the coffee industry who need industrial news and trends, people who care about climate change and sustainable development, and coffee lovers. Audiences generally know about this topic and are highly interested in the coffee industry and potential strategies to deal with changes within the industry. Even if audiences don't have specific knowledge about coffee, their educational backgrounds enable them to understand the information when they see the chart quickly. They want to gain high-value information efficiently from data visualization and catch up with the content.  
+The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. My target audience will be employers in the coffee industry who need industrial news and trends, people who care about climate change and sustainable development, and coffee lovers. Audiences generally know about this topic and are highly interested in the coffee industry and potential strategies to deal with changes within the industry. Even if audiences don't have specific knowledge about coffee, their educational backgrounds enable them to understand the information when they see the chart quickly. They want to gain high-value information efficiently from data visualization and catch up with the content.  
 
 I realized that the audience of my story and the audience of the final presentation were different. The audience for the presentation consists of my classmates and the professor, and it's only one minute long. Therefore, my narration should only include the most essential parts. I removed many transitional slides, retaining only my visualizations and a few key sentences.  
 
-## Final design decisions
 
-I created a comprehensive story before the presentation. During the presentation, I gained lots of inspiration from my classmates' presentations, prompting me to adjust my charts and the layout of my story. I discovered that some new formatting features in Shorthand were ideal for presenting regions. I wanted to showcase the coffee belt on a map, as well as the specific locations of major coffee-producing regions within the coffee belt. Initially, I planned to use Tableau or Flourish's map feature, but since I was dealing with relatively few countries, direct map representation wouldn't be very effective. Shorthand's dynamic formatting came in handy; I marked the position of each country on the map, and Shorthand allowed me to zoom in on specific areas. This presentation method was much more effective than using a conventional map. I wanted to add an auxiliary trendline to my bar chart, but I couldn't find this feature in Flourish, which was a bit disappointing. And it is often that Flourish runs into a bug.
-Also, I found a useful way for narrative is to write a takeaway for each chart.
+## Final design decisions
+In part I, I decided what the story, the story arc, and the charts that I would use. I ensure there sufficient data that can be used in my story.  
+
+In part II, I built out the mood board, personas, texts, and a Shorthand draft of my story while conducting interviews to seek suggestions.  
+
+In part III, I revised my draft based on feedback. I created a comprehensive story before the presentation. I revised everything said by my interviewees. During the presentation, I gained lots of inspiration from my classmates' presentations, prompting me to adjust my charts and the layout of my story. I discovered that some new formatting features in Shorthand were ideal for presenting regions. I wanted to showcase the coffee belt on a map, as well as the specific locations of major coffee-producing regions within the coffee belt. Initially, I planned to use Tableau or Flourish's map feature, but since I was dealing with relatively few countries, direct map representation wouldn't be very effective. Shorthand's dynamic formatting came in handy; I marked the position of each country on the map, and Shorthand allowed me to zoom in on specific areas. This presentation method was much more effective than using a conventional map. I wanted to add an auxiliary trendline to my bar chart, but I couldn't find this feature in Flourish, which was a bit disappointing. And it is often that Flourish runs into a bug. Also, I found a useful way for narrative is to write a takeaway for each chart.
 
 
 ## References
@@ -37,6 +41,23 @@ Besides, using images from Unsplash, I also downloaded free copyright images fro
 1. [coffee bean](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
 2. [coffee grower](https://www.pexels.com/photo/woman-holding-a-basket-with-coffee-at-a-plantation-17836197/)
 3. [coffee beans falling into a basket](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
+
+Data Reference and Story Reference:
+| Name                               | URL                                                                                                                                                | Description     |   |   |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---|---|
+| Wikipedia-coffee                   | [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers).        | Story Reference |   |   |
+| Financial Times                    | [Financial Times ](https://ig.ft.com/coffee/).                                                                                                                          | Story Reference |   |   |
+| The Guardian                       | [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests). | Story Reference |   |   |
+| Coffee Production                  | [Coffee Production](https://www.ico.org/prices/po-production.pdf).                                                                                                       | Data Reference  |   |   |
+| Coffee Consumption                 | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
+| Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                                             | Data Reference  |   |   |
+| Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                                               | Data Reference  |   |   |
+| Coffee Retail Price                | [COffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
+
+Further Reading:
+1. [Achieving sustainable development: coffee sector](https://ccsi.columbia.edu/content/achieving-sustainable-development-coffee-sector)
+2. [Rising temperatures in tropics to lead to lower coffee yields and higher prices, study suggests](https://www.theguardian.com/environment/2014/mar/28/climate-change-bad-expensive-coffee-ipcc)
+3. [How climate change will brew a bad-tasting, expensive cup of coffee](https://www.theguardian.com/environment/2014/mar/28/climate-change-bad-expensive-coffee-ipcc)
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
