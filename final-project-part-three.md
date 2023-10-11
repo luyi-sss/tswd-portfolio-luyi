@@ -2,7 +2,7 @@
 
 # The final data story
 <script src="https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/embed.js"></script>
-[Click here to see my story](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
+[Click here to see my story on Shorthand](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
 
 With climate change leading to a decrease in coffee beans production, coffee production cannot meet coffee demand and the price of coffee is increasing every year. If the trend continues, one day, drinking coffee will be a luxury for us.
 
