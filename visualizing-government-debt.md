@@ -1,4 +1,4 @@
-| [home page](README) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://luyi-sss.github.io/tswd-portfolio-luyi/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing-government-debt
 This dataset shows the debt-to-GDP ratio of countries between 1995 and 2019. I think there are 3 key attributes that need to be identified clearly on charts: Country, Ratio, and the change or the range of ratios within the period. 3 different data visualization ways are used to demonstrate the same dataset of the general debt from OECD.(https://data.oecd.org/)
