@@ -1,10 +1,11 @@
 | [home page](README) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-<script src="https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/embed.js"></script>
 [Click here to see my story on Shorthand](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
 
 With climate change leading to a decrease in coffee beans production, coffee production cannot meet coffee demand and the price of coffee is increasing every year. If the trend continues, one day, drinking coffee will be a luxury for us.
+
+<script src="https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/embed.js"></script>
 
 
 # Changes made since Part II
@@ -33,11 +34,13 @@ Also, I found a useful way for narrative is to write a takeaway for each chart.
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 Besides, using images from Unsplash, I also downloaded free copyright images from Pexel. Here are the images that I have used:
-[coffee bean](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
-[coffee grower](https://www.pexels.com/photo/woman-holding-a-basket-with-coffee-at-a-plantation-17836197/)
-[coffee beans falling into a basket](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
+1. [coffee bean](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
+2. [coffee grower](https://www.pexels.com/photo/woman-holding-a-basket-with-coffee-at-a-plantation-17836197/)
+3. [coffee beans falling into a basket](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-I really learned a lot from the class. I learned various useful data visualization tools and more importantly, the general concept of how to make a better data visualization to support storytelling. The schedule to build out the entire portfolio is intensive, but challenges are always followed by great outcomes. I am proud of myself that I can build out a comprehensive portfolio within the semester.
+I really learned a lot from the class. I learned various useful data visualization tools and more importantly, the general concept of how to make a better data visualization to support storytelling. The schedule to build out the entire portfolio is intensive, but challenges are always followed by great outcomes. I am proud of myself that I can build out a comprehensive portfolio within the semester.  
+
+I want to say thank you and this is a wonderful journey:)
