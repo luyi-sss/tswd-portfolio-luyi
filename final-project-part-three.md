@@ -1,7 +1,7 @@
 | [home page](https://luyi-sss.github.io/tswd-portfolio-luyi/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[Click here to see my story on Shorthand](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
+[Are We Running Out of Coffee? - Luyi Sun](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
 
 With climate change leading to a decrease in coffee beans production, coffee production cannot meet coffee demand and the price of coffee is increasing every year. If the trend continues, one day, drinking coffee will be a luxury for us.
 
