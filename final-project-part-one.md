@@ -70,7 +70,7 @@ Data reference:
 | Coffee Consumption                 | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
 | Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                                             | Data Reference  |   |   |
 | Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                                               | Data Reference  |   |   |
-| Coffee Retail Price                | [COffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
+| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
