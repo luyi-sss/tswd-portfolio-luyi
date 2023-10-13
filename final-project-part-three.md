@@ -21,8 +21,9 @@ I incorporated all feedback and interview instructions since the goal of the sto
 ## The audience
 > Talk about who you identified as the audience for your final data story. Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. My target audience will be employers in the coffee industry who need industrial news and trends and relevant coffee policymakers. Audiences generally are familiar with this topic and the coffee industry. They would like to grab insights to help them make better decisions and generate efficient strategies to deal with changes within the industry.
+The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. Based on the suggestions I collected in part II, I limit my target audience to two communities. My target audience will be practitioners in the coffee industry who need industrial news and trends and relevant coffee policymakers. Audiences generally are familiar with this topic and the coffee industry. They would like to grab insights to help them make better decisions and generate efficient strategies to deal with changes within the industry.  
 
+A precise target audience helps me to generate a clearer and more concise call to action.  
 I realized that the audience of my story and the audience of the final presentation were different. The audience for the presentation consists of my classmates and the professor, and it's only one minute long. Therefore, my narration should only include the most essential parts. I removed many transitional slides, retaining only my visualizations and a few key sentences.  
 
 
