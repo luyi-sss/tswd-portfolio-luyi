@@ -49,7 +49,10 @@ Story Reference:
 
 Data Reference:
 1. [Coffee Production](https://www.ico.org/prices/po-production.pdf).
-2. [Coffee consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                 3. [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                         4. [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                       5. [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).
+2. [Coffee consumption](https://www.ico.org/new_historical.asp?section=Statistics).
+3. [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).
+4. [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)
+5. [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).
 
  
 Further Reading:
