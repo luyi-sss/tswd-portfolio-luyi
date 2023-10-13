@@ -22,7 +22,6 @@ I incorporated all feedback and interview instructions since the goal of the sto
 > Talk about who you identified as the audience for your final data story. Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
 The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. Based on the suggestions I collected in part II, I limit my target audience to two communities. My target audience will be practitioners in the coffee industry who need industrial news and trends and relevant coffee policymakers. Audiences generally are familiar with this topic and the coffee industry. They would like to grab insights to help them make better decisions and generate efficient strategies to deal with changes within the industry.  
-
 A precise target audience helps me to generate a clearer and more concise call to action.  
 I realized that the audience of my story and the audience of the final presentation were different. The audience for the presentation consists of my classmates and the professor, and it's only one minute long. Therefore, my narration should only include the most essential parts. I removed many transitional slides, retaining only my visualizations and a few key sentences.  
 
@@ -43,19 +42,16 @@ Besides, using images from Unsplash, I also downloaded free copyright images fro
 2. [coffee grower](https://www.pexels.com/photo/woman-holding-a-basket-with-coffee-at-a-plantation-17836197/)
 3. [coffee beans falling into a basket](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
 
-Data Reference and Story Reference:
-| Name                               | URL                                                                                                                                                                 | Description     |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Wikipedia-coffee                   | [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers)      | Story Reference |
-| Financial Times                    | [Financial Times](https://ig.ft.com/coffee/).                                                                                                                       | Story Reference |
-| The Guardian                       | [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests). | Story Reference |
-| Global Coffee Production           | [Coffee Production](https://www.ico.org/prices/po-production.pdf).                                                                                                  | Data Used       |
-| Global Coffee Consumption          | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                   | Data Used       |
-| Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                            | Data Used       |
-| Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                          | Data Used       |
-| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                   | Data Used       |
-|                                    |                                                                                                                                                                     |                 |
+Story Reference:
+1. [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers)
+2. [Financial Times](https://ig.ft.com/coffee/).                                                                                                                   
+3. [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests).
 
+Data Reference:
+1. [Coffee Production](https://www.ico.org/prices/po-production.pdf).
+2. [Coffee consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                 3. [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                         4. [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                       5. [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).
+
+ 
 Further Reading:
 1. [Achieving sustainable development: coffee sector](https://ccsi.columbia.edu/content/achieving-sustainable-development-coffee-sector)
 2. [Rising temperatures in tropics to lead to lower coffee yields and higher prices, study suggests](https://www.theguardian.com/environment/2014/mar/28/climate-change-bad-expensive-coffee-ipcc)
