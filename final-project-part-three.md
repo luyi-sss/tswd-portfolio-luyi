@@ -43,26 +43,17 @@ Besides, using images from Unsplash, I also downloaded free copyright images fro
 3. [coffee beans falling into a basket](https://www.pexels.com/photo/ripe-coffee-berries-falling-into-wicker-basket-7125434/)
 
 Data Reference and Story Reference:
-| Name                               | URL                                                                                                                                                | Description     |   |   |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---|---|
-| Wikipedia-coffee                   | [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers).        | Story Reference |   |   |
-| Financial Times                    | [Financial Times ](https://ig.ft.com/coffee/).                                                                                                                          | Story Reference |   |   |
-| The Guardian                       | [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests). | Story Reference |   |   |
-| Coffee Production                  | [Coffee Production](https://www.ico.org/prices/po-production.pdf).                                                                                                       | Data Reference  |   |   |
-| Coffee Consumption                 | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
-| Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                                             | Data Reference  |   |   |
-| Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                                               | Data Reference  |   |   |
-| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
-| Name                               | URL                                                                                                                                                | Description     |   |   |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---|---|
-| Wikipedia-coffee                   | [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers).        | Story Reference |   |   |
-| Financial Times                    | [Financial Times ](https://ig.ft.com/coffee/).                                                                                                                          | Story Reference |   |   |
-| The Guardian                       | [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests). | Story Reference |   |   |
-| Coffee Production                  | [Coffee Production](https://www.ico.org/prices/po-production.pdf).                                                                                                       | Data Reference  |   |   |
-| Coffee Consumption                 | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
-| Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                                             | Data Reference  |   |   |
-| Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                                               | Data Reference  |   |   |
-| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
+| Name                               | URL                                                                                                                                                                 | Description     |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Wikipedia-coffee                   | [Wikipedia-coffee](https://en.wikipedia.org/wiki/Economics_of_coffee#:~:text=Twelve%20billion%20pounds%20of%20coffee,over%20130%20million%20coffee%20drinkers)      | Story Reference |
+| Financial Times                    | [Financial Times](https://ig.ft.com/coffee/).                                                                                                                       | Story Reference |
+| The Guardian                       | [The Guardian](https://www.theguardian.com/environment/2023/mar/09/rising-temperatures-in-tropics-to-lead-to-lower-coffee-yields-and-higher-prices-study-suggests). | Story Reference |
+| Global Coffee Production           | [Coffee Production](https://www.ico.org/prices/po-production.pdf).                                                                                                  | Data Used       |
+| Global Coffee Consumption          | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                   | Data Used       |
+| Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                            | Data Used       |
+| Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                          | Data Used       |
+| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                   | Data Used       |
+|                                    |                                                                                                                                                                     |                 |
 
 Further Reading:
 1. [Achieving sustainable development: coffee sector](https://ccsi.columbia.edu/content/achieving-sustainable-development-coffee-sector)
