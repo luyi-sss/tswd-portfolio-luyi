@@ -3,7 +3,7 @@
 # The final data story
 [Are We Running Out of Coffee? - Luyi Sun](https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/index.html)
 
-With climate change leading to a decrease in coffee beans production, coffee production cannot meet coffee demand and the price of coffee is increasing every year. If the trend continues, one day, drinking coffee will be a luxury for us.
+With climate change leading to a slow increase in coffee beans production, coffee production cannot meet coffee demand thus the price of coffee is increasing every year. If the trend continues, one day, drinking coffee will be a luxury for us.
 
 <script src="https://carnegiemellon.shorthandstories.com/are-we-running-out-of-coffee/embed.js"></script>
 
@@ -21,13 +21,13 @@ I incorporated all feedback and interview instructions since the goal of the sto
 ## The audience
 > Talk about who you identified as the audience for your final data story. Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. My target audience will be employers in the coffee industry who need industrial news and trends, people who care about climate change and sustainable development, and coffee lovers. Audiences generally know about this topic and are highly interested in the coffee industry and potential strategies to deal with changes within the industry. Even if audiences don't have specific knowledge about coffee, their educational backgrounds enable them to understand the information when they see the chart quickly. They want to gain high-value information efficiently from data visualization and catch up with the content.  
+The persona definitely helps me to set the narrative tone of my story and it helps me to cover all information that I want to deliver in narration. The interview helped me to gain valuable critique from my potential audience. My target audience will be employers in the coffee industry who need industrial news and trends and relevant coffee policymakers. Audiences generally are familiar with this topic and the coffee industry. They would like to grab insights to help them make better decisions and generate efficient strategies to deal with changes within the industry.
 
 I realized that the audience of my story and the audience of the final presentation were different. The audience for the presentation consists of my classmates and the professor, and it's only one minute long. Therefore, my narration should only include the most essential parts. I removed many transitional slides, retaining only my visualizations and a few key sentences.  
 
 
 ## Final design decisions
-In part I, I decided what the story, the story arc, and the charts that I would use. I ensure there sufficient data that can be used in my story.  
+In part I, I decided what the story, the story arc, and the charts that I would use. I ensure there is sufficient data that can be used in my story.  
 
 In part II, I built out the mood board, personas, texts, and a Shorthand draft of my story while conducting interviews to seek suggestions.  
 
@@ -52,7 +52,7 @@ Data Reference and Story Reference:
 | Coffee Consumption                 | [Coffeee Consumption](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
 | Coffee Prices Paid to Growers      | [Coffee Prices Paid to Growers](https://www.ico.org/new_historical.asp).                                                                                                             | Data Reference  |   |   |
 | Production of 2 major coffee beans | [Production of 2 major coffee beans](https://www.ico.org/prices/new-consumption-table.pdf)                                                                                               | Data Reference  |   |   |
-| Coffee Retail Price                | [COffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
+| Coffee Retail Price                | [Coffee Retail Price](https://www.ico.org/new_historical.asp?section=Statistics).                                                                                          | Data Reference  |   |   |
 
 Further Reading:
 1. [Achieving sustainable development: coffee sector](https://ccsi.columbia.edu/content/achieving-sustainable-development-coffee-sector)
